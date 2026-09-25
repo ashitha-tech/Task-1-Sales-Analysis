@@ -1,0 +1,16 @@
+Order ID,Product,Category,Date,Quantity,Price,Sales Amount,Month
+O001,Laptop,Electronics,2026-01-05,2,55000,110000,2026-01
+O002,Mouse,Accessories,2026-01-10,10,800,8000,2026-01
+O003,Keyboard,Accessories,2026-01-15,5,1500,7500,2026-01
+O004,Monitor,Electronics,2026-01-20,3,12000,36000,2026-01
+O005,Laptop,Electronics,2026-02-05,1,55000,55000,2026-02
+O006,Headphones,Accessories,2026-02-10,6,2500,15000,2026-02
+O007,Mouse,Accessories,2026-02-15,12,800,9600,2026-02
+O008,Keyboard,Accessories,2026-02-20,7,1500,10500,2026-02
+O009,Monitor,Electronics,2026-03-05,4,12000,48000,2026-03
+O010,Laptop,Electronics,2026-03-10,2,55000,110000,2026-03
+O011,Headphones,Accessories,2026-03-15,8,2500,20000,2026-03
+O012,Mouse,Accessories,2026-03-20,15,800,12000,2026-03
+O013,Keyboard,Accessories,2026-04-05,10,1500,15000,2026-04
+O014,Monitor,Electronics,2026-04-10,5,12000,60000,2026-04
+O015,Laptop,Electronics,2026-04-15,3,55000,165000,2026-04
